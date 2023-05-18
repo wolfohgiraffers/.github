@@ -1,1 +1,1 @@
-# .github
+# Ohgiraffers Backend Lecture Storage
