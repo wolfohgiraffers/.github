@@ -21,6 +21,12 @@
 ### A-05-05_Test Frameworkd
 #### [A-05-05-01_JUNIT](https://github.com/OhGiraffers/A-05-05-01_JUnit)
 
+# B_JavaScript
+## B-01_Language
+#### [B-01-01 JavaScript(core)](https://github.com/OhGiraffers/B-01-01_JavaScript_core).
+#### [B-01-02 JavaScript(web)](https://github.com/OhGiraffers/B-01-02_JavaScript_web).
+#### [B-01-03 JavaScript(ES6)](https://github.com/OhGiraffers/B-01-03_JavaScript_ES6).
+
 # C_Web
 ## C-04_Skills
 #### [C-04-01_Ajax](https://github.com/OhGiraffers/C-04-01_Ajax)
