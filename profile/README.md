@@ -16,6 +16,9 @@
 ---
 ### A-05-03_Persistence Framework
 #### [A-05-03-01_MyBatis](https://github.com/OhGiraffers/A-05-03-01_MyBatis.git)
+
+#### [A-05-03-02_Security](https://github.com/OhGiraffers/A-05-02_SpringSecurity)
+
 #### [A-05-03-03_JPA](https://github.com/OhGiraffers/A-05-03-03_JPA.git)
 ---
 ### A-05-05_Test Frameworkd
